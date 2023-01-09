@@ -1,0 +1,8 @@
+{
+    "name": "Loqed Lock by InMotion",
+    "hacs": "1.29.1",
+    "domains": [
+        "lock"
+    ],
+    "homeassistant": "2022.12.7"
+}
